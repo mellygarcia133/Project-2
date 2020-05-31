@@ -1,0 +1,22 @@
+{
+  "name": "project-2",
+  "version": "1.0.0",
+  "description": "project-2 website with a search engine",
+  "main": "project-2",
+  "scripts": {
+    "test": "project-2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mellygarcia133/Project-2.git"
+  },
+  "keywords": [
+    "project-2"
+  ],
+  "author": "Melissa Garcia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mellygarcia133/Project-2/issues"
+  },
+  "homepage": "https://github.com/mellygarcia133/Project-2#readme"
+}
